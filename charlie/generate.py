@@ -1,11 +1,12 @@
-import os
-import re
-import time
-import random
 import argparse
 import itertools
-import subprocess
 import math
+import os
+import random
+import re
+import subprocess
+import time
+
 import tqdm
 
 EMOJIS_FILL = """
