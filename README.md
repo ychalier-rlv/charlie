@@ -1,8 +1,8 @@
-# Mais où est Charlie ?
+# Où est Charlie ?
 
 Ce dispositif permet de générer des planches à imprimer dans le cadre d'une animation de découverte de la blockchain, dont [voici un déroulé](https://repeated-fold-0ca.notion.site/Blockchain-humaine-f97a891457fb4cdea8f18fe259c15626).
 
-L'objectif est d'implémenter une preuve de travail *humaine* (non au sens preuve de « travail humain », mais bien « preuve de travail » adaptée aux humains). Il faut une tâche un peu longue à résoudre, mais facile à vérifier. C'est le cas des albums *Mais où Charlie ?*. Trouver Charlie sur une planche prend plusieurs minutes, mais si on nous indique où il est, on peut rapidemment le vérifier. L'objectif est donc de générer des planches de ce style. La solution adoptée, pour être suffisamment simple, est de produire des grilles d'emojis dont seuls certains (une dizaine) n'apparaissent qu'une fois. Une même grille peut donc être utilisée plusieurs fois si nécessaire, ce qui réduit le nombre de feuilles à imprimer.
+L'objectif est d'implémenter une preuve de travail *humaine* (non au sens preuve de « travail humain », mais bien « preuve de travail » adaptée aux humains). Il faut une tâche un peu longue à résoudre, mais facile à vérifier. C'est le cas des albums *Où est Charlie ?*. Trouver Charlie sur une planche prend plusieurs minutes, mais si on nous indique où il est, on peut rapidemment le vérifier. L'objectif est donc de générer des planches de ce style. La solution adoptée, pour être suffisamment simple, est de produire des grilles d'emojis dont seuls certains (une dizaine) n'apparaissent qu'une fois. Une même grille peut donc être utilisée plusieurs fois si nécessaire, ce qui réduit le nombre de feuilles à imprimer.
 
 ## Prérequis
 
